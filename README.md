@@ -1,9 +1,7 @@
 # CSDN_visitor
 Use urllib and Beautifulsoup to increase the Page Views to your CSDN Blog. 增加CSDN浏览量。
 ---
-typora-copy-images-to: upload
 
----
 
 # 爬取某知名网站的数据:smile:
 
