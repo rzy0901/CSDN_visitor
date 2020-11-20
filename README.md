@@ -1,5 +1,5 @@
 # CSDN_visitor
-Use urllib and Beautifulsoup to increase the Page Views to your CSDN Blog.
+Use urllib and Beautifulsoup to increase the Page Views to your CSDN Blog. 增加CSDN浏览量。
 ---
 typora-copy-images-to: upload
 
@@ -7,9 +7,11 @@ typora-copy-images-to: upload
 
 # 爬取某知名网站的数据:smile:
 
-> 爬虫 + 骚操作 = 不讲武德 = 耗子尾汁
+> 爬虫 + 骚操作 = 不讲武德 = 耗子尾汁。
 >
-> 增加你的浏览量
+> 增加你的浏览量。
+> CSDN传送门：<https://blog.csdn.net/qq_45504981>
+
 
 ## 需要安装的包
 
